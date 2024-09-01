@@ -2,7 +2,7 @@
 title: About
 ---
 
-![Data Robo](./assets/ch.png)
+![Image of Christophe](./assets/ch.png)
 
 ## Crafting Experiences, Embracing Complexity
 For 25 years, I've immersed myself in the world of design. Though I didn't attend design school initially, I've since bridged that gap by collaborating with students as a lecturer and mentor, sharing my real-world experience.  
