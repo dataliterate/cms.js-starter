@@ -5,7 +5,7 @@ title: Hello.
 
 ## Tellus molestie nunc non blandit massa. Porttitor leo a diam sollicitudin. Malesuada pellentesque elit eget gravida cum sociis natoque. [Ultricies leo integer](./pages/about) malesuada nunc vel risus commodo viverra. Amet porttitor eget dolor morbi non arcu. 
 
-[Read more](./pages/about "About")
+[Read more](./pages/about)
 
 Bibendum arcu vitae elementum curabitur vitae nunc:
 
