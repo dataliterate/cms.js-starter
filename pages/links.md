@@ -1,6 +1,8 @@
 ---
 title: Links
 ---
+<img src="./assets/links.svg" width="240" height="240" />
+
 ### [nitrada.bandcamp.com](https://nitrada.bandcamp.com)
 Tellus molestie nunc non blandit massa. Porttitor leo a diam sollicitudin. Malesuada pellentesque elit eget gravida cum sociis natoque. Ultricies leo integer malesuada nunc vel risus commodo viverra. Amet porttitor eget dolor morbi non arcu. Bibendum arcu vitae elementum curabitur vitae nunc. Ut sem nulla pharetra diam sit amet. 
 
