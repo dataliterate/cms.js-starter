@@ -2,16 +2,39 @@
 title: About
 ---
 
-# Headline 1
-Lorem ipsum dolor sit amet, _consectetur adipiscing elit_, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Morbi tincidunt ornare massa eget egestas purus viverra. Phasellus faucibus scelerisque eleifend donec pretium vulputate sapien. Potenti nullam ac tortor vitae. Vitae sapien pellentesque habitant morbi tristique. *Aliquam sem et tortor* consequat id porta nibh venenatis cras. Integer vitae justo eget magna fermentum iaculis eu. Ut enim blandit volutpat maecenas volutpat blandit aliquam etiam. 
+# Crafting Experiences, Embracing Complexity
 
-## Headline 2
-Mattis enim ut tellus elementum sagittis. Adipiscing enim eu turpis egestas pretium aenean pharetra magna. Ullamcorper malesuada proin libero nunc consequat interdum varius. Pellentesque id nibh tortor id aliquet lectus proin nibh nisl. Est ullamcorper eget nulla facilisi etiam dignissim diam quis enim. Eget nunc scelerisque viverra mauris in aliquam sem fringilla. Vitae tempus quam pellentesque nec nam aliquam sem et tortor.
+For 25 years, I've immersed myself in the world of design. Though I didn't attend design school initially, I've since bridged that gap by collaborating with students as a lecturer and mentor, sharing my real-world experience.
 
-- item 1
-- item 2
-- item 3
+My portfolio spans a diverse range of projects:
 
-1. uno
-2. dos
-3. tres
+- Tangible artifacts: record covers, visual identities (eg for conferences)
+- Conceptual work: design systems for products, services, and platforms
+- Educational initiatives: design teaching assignments
+- Design tools: creating tools to help designers design better
+
+Whether it's called user experience design, interaction design, product design, or design consulting, I approach each project with equal passion for both the thinking behind it and the craft itself.
+
+I thrive on collaboration, working with:
+
+- Fellow designers
+- Professionals from related disciplines
+- Business stakeholders
+- Customers and consumers
+
+Sharing my experience is a joy, but I'm equally driven by an insatiable curiosity to learn. I welcome debate about design, viewing it as a source of positive friction that drives innovation.
+
+In my work, I aim to:
+
+- Think like an entrepreneur
+- Listen like a therapist
+- Lead by example
+- Empathize deeply with the people I design for and with
+
+As a designer, I see my mission as:
+
+1. Making complexity graspable and beautiful
+2. Creating happiness through design
+3. Contributing to a better world for all living things (including my beloved cats, trees and brutalist buildings)
+
+Looking ahead, I believe the next 25 years will be both very challenging and wonderful. I'm excited to continue growing, learning, and making a positive impact through design. ♥️
