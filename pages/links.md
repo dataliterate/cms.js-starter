@@ -110,7 +110,7 @@ title: Links
   </line>
 </svg>
 
-### [nitrada.bandcamp.com](https://nitrada.bandcamp.com)
+### [Bandcamp](https://nitrada.bandcamp.com)
 Tellus molestie nunc non blandit massa. Porttitor leo a diam sollicitudin. Malesuada pellentesque elit eget gravida cum sociis natoque. Ultricies leo integer malesuada nunc vel risus commodo viverra.
 
 ### [Data Populator](https://www.datapopulator.com)
