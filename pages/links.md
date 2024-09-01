@@ -20,7 +20,6 @@ title: Links
       </stop>
     </linearGradient>
   </defs>
-  
   <!-- Nodes -->
   <circle class="node" cx="120" cy="120" r="3">
     <animate attributeName="r" values="3;5;3" dur="2s" repeatCount="indefinite" />
@@ -61,7 +60,6 @@ title: Links
   <circle class="node" cx="170" cy="170" r="3">
     <animate attributeName="r" values="3;5;3" dur="2s" repeatCount="indefinite" begin="0.25s" />
   </circle>
-
   <!-- Links -->
   <line class="link" x1="120" y1="120" x2="20" y2="20" stroke="url(#linkGradient)">
     <animate attributeName="opacity" values="0;1;0" dur="3s" repeatCount="indefinite" begin="0s" />
