@@ -11,8 +11,8 @@ var config = {
   // If Github mode is set, your Github username, repo name, 
   // and branch to get files from.
   github: {
-    username: 'yourusername',
-    repo: 'yourrepo',
+    username: 'nitrada',
+    repo: 'https://github.com/dataliterate/cms.js-starter.git',
     branch: 'gh-pages',
     host: 'https://api.github.com',
     // Use prefix option if your site is located in a subdirectory.
