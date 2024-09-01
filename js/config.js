@@ -14,7 +14,7 @@ var config = {
     username: 'nitrada',
     repo: 'cms.js-starter',
     branch: 'gh-pages',
-    host: 'https://api.github.com/repos/dataliterate/',
+    host: 'https://api.github.com',
     // Use prefix option if your site is located in a subdirectory.
     // prefix: 'subdirectory',
   },
