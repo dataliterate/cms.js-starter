@@ -9,7 +9,7 @@ var config = {
   mode: 'GITHUB',
 
   // markdown renderer
-  markdownEngine: 'marked',
+  //markdownEngine: 'marked',
 
   // If Github mode is set, your Github username, repo name, 
   // and branch to get files from.
