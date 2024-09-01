@@ -1,6 +1,8 @@
 ---
 title: Links
 ---
+<img src="./assets/links.svg" />
+
 <svg xmlns="http://www.w3.org/2000/svg" width="240" height="240" viewBox="0 0 240 240">
   <defs>
     <style>
