@@ -1,7 +1,7 @@
 ---
 title: Hello.
 ---
-![Data Robo](./assets/datarobo.gif)
+<img src="./assets/datarobo.gif" width="240" height="240" />
 
 ## Tellus molestie nunc non blandit massa. Porttitor leo a diam sollicitudin. Malesuada pellentesque elit eget gravida cum sociis natoque. [Ultricies leo integer](#) malesuada nunc vel risus commodo viverra. Amet porttitor eget dolor morbi non arcu. 
 
