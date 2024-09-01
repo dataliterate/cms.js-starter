@@ -8,6 +8,9 @@ var config = {
   // Defaults to Server mode if not specified
   mode: 'GITHUB',
 
+  // markdown renderer
+  markdownEngine: 'marked',
+
   // If Github mode is set, your Github username, repo name, 
   // and branch to get files from.
   github: {
