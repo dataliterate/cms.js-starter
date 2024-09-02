@@ -1,11 +1,9 @@
 function stickyBar() {
-
     barCheck();
     barEvents();
 
     // Check whether to show bar
     function barCheck() {
-
         // Check session storage for bar removal, or else show bar
         var hidebar = localStorage.getItem('bar-hide') || false;
         if (hidebar) {
