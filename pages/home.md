@@ -3,12 +3,14 @@ title: Hello.
 ---
 <img src="./assets/datarobo.gif" width="240" height="240" />
 
-## Tellus molestie nunc non blandit massa. Porttitor leo a diam sollicitudin. Malesuada pellentesque elit eget gravida cum sociis natoque. [Ultricies leo integer](\#/pages/about) malesuada nunc vel risus commodo viverra. Amet porttitor eget dolor morbi non arcu. 
+## Design means making complexity tangible, fun and beautiful. My goal is to help other designers design better by providing design tools and training that enhance their creativity and effectiveness. By empowering people to understand and utilize technological mechanisms responsibly, I aim to support everyone in becoming more data literate.
 
 [Read more](\#/pages/about)
 
-Bibendum arcu vitae elementum curabitur vitae nunc:
+I haven't had much time for new stuff, but here's some older writing and presentations:
 
-> Ut sem nulla pharetra diam sit amet. Ac feugiat sed lectus vestibulum mattis ullamcorper. Eu volutpat odio facilisis mauris sit amet massa vitae. Semper eget duis at tellus at urna condimentum mattis pellentesque. Tincidunt dui ut ornare lectus sit amet. 
+[Designing with Meaningful Data](https://medium.com/sketch-app-sources/designing-with-meaningful-data-5456b40e172e) (2016)
 
-~~Sed augue lacus viverra vitae congue eu. Nisi lacus sed viverra tellus. Sed id semper risus in. Urna nunc id cursus metus aliquam.~~
+[Designing with Meaningful Color](https://medium.com/sketch-app-sources/designing-with-meaningful-color-28edd86240a7) (2016)
+
+[Patterns for Multiscreen Strategies](https://www.slideshare.net/slideshow/patterns-for-multiscreen-strategies/8112705) (2011)
