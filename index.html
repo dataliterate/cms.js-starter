@@ -14,13 +14,52 @@
     <link rel="stylesheet" href="./css/poole.overrides.min.css">
     <link rel="icon" href="./assets/favicon.png" type="image/x-icon" />
     <link rel="shortcut icon" href="./assets/favicon.png" type="image/x-icon" />
+    <script type="text/javascript" src="./js/simple-sticky-bar.js"></script>
     <!--[if lt IE 9]>
       <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
     <![endif]-->
     <noscript>Please enable JavaScript to view this site.</noscript>
+    <style>
+        .bar {
+            position: fixed;
+            bottom: 0;
+            display: block;
+            z-index: 99999;
+            box-sizing: border-box;
+            width: 100%;
+            padding: 1.5em 2.5em;
+            background-color: #ffff00;
+            color: #000;
+            font-size: 1em;
+            line-height: 1.5;
+            text-align: center;
+            transition: bottom 1s;
+            p,
+            a {
+                color: inherit;
+                margin: 0;
+            }
+            a[href*="http"] {
+                text-decoration: underline;
+            }
+            .dismiss {
+                position: absolute;
+                top: 1em;
+                right: 0.75em;
+                font-size: 1.5em;
+                line-height: 1;
+                color: inherit;
+            }
+        }
+    </style>
 </head>
 
 <body>
+    <!-- Sticky Bar -->
+    <div id="bar" class="bar">
+        <p>Emergency on planet earth!</p>
+        <a href="#" class="dismiss">&times;</a>
+    </div>
     <!-- Main Container -->
     <div class="container content">
         <!-- Header -->
@@ -61,6 +100,10 @@
     <script src="./js/cms.js"></script>
     <!-- Config -->
     <script src="./js/config.js"></script>
+    <!-- Sticky Bar -->
+    <script>
+        stickyBar();
+    </script>
 </body>
 
 </html>
