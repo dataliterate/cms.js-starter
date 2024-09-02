@@ -24,7 +24,7 @@ A slide deck I used for a talk I gave at the Mob X Conference in Berlin in 2013.
 Slide deck (in german) for a talk I gave in 2012 at the "Media Future Day" of Swiss Television/TPC AG in Zürich, Switzerland on the topic of the transition of TV consumption initiated by the rise of smartphones and tablets.
 
 ### [Patterns for Multiscreen Strategies](https://www.slideshare.net/slideshow/patterns-for-multiscreen-strategies/8112705)
-A presentation slide deck we used for many talks and workshops around cross device orchestration in the so called “ecosystem of screens”. What was still kind of speculative when we conceived it in 2011, is now a reality for many (in good ways and bad ways). The original slide deck has received 70k views and was frequently cited in journalistiv articles, scientific papers and books.
+A presentation slide deck we used for many talks and workshops around cross device orchestration in the so called “ecosystem of screens”. What was still kind of speculative when we conceived it in 2011, is now a reality for many (in good ways and bad ways). The original slide deck has received 70k views and was frequently cited in journalistic articles, scientific papers and books.
 
 ## Music related
 
