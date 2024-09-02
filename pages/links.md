@@ -1,7 +1,7 @@
 ---
 title: Links
 ---
-<img src="./assets/links.svg" />
+<img src="./assets/links.svg" alt="A network of links" />
 
 ## Design related
 
