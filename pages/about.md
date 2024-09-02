@@ -7,7 +7,7 @@ title: About
 
 For 25 years, I've immersed myself in the world of design. Though I didn't attend design school initially, I've since bridged that gap by collaborating with students as a lecturer and mentor, sharing my real-world experience.  
   
-My portfolio \* spans a diverse range of projects:  
+My portfolio spans a diverse range of projects:  
   
 * Tangible artifacts: record covers, visual identities (eg for conferences)
 * Conceptual work: design systems for products, services, and platforms
@@ -15,8 +15,6 @@ My portfolio \* spans a diverse range of projects:
 * Design tools: creating tools to help designers design better
   
 Whether it's called user experience design, interaction design, product design, or design consulting, I approach each project with equal passion for both the thinking behind it and the craft itself.
-
-\* If you're interested in any of my recent work, please [get in touch](mailto:ch@dataliterate.de) and let's meet – either physically or digitally! 
 
 ### Collaboration
 
@@ -46,4 +44,4 @@ As a designer, I see my mission as:
 2. Creating happiness through design
 3. Contributing to a better world for all living things (including my beloved ==cats==, trees and brutalist buildings)
 
-Looking ahead, I believe the next 25 years will be both very challenging and wonderful. I'm excited to continue growing, learning, and making a positive impact through design. ♥️
+Looking ahead, I believe the next 25 years will be both very challenging and wonderful. I'm excited to continue growing, learning, and making a positive impact through design. If you're interested in any of my recent or future work, please [get in touch](mailto:ch@dataliterate.de) and let's meet – physically or digitally!
