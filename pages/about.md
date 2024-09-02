@@ -40,7 +40,7 @@ In my work, I aim to:
 
 As a designer, I see my mission as:  
   
-* Make complexity tangible, fun and beautiful
+* Make complexity tangible, joy and beautiful
 * Help other designers design better by providing design tools and training that enhance their creativity and effectiveness
 * Empower people to understand and utilize technological means responsibly
 * Support everyone in becoming more data literate
