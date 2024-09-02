@@ -40,8 +40,9 @@ In my work, I aim to:
 
 As a designer, I see my mission as:  
   
-1. Making complexity graspable and beautiful
-2. Creating happiness through design
-3. Contributing to a better world for all living things (including my beloved cats, trees and brutalist buildings)
+* Make complexity tangible, fun and beautiful
+* Help other designers design better by providing design tools and training that enhance their creativity and effectiveness
+* Empower people to understand and utilize technological means responsibly
+* Support everyone in becoming more data literate
 
 Looking ahead, I believe the next 25 years will be both very challenging and wonderful. I'm excited to continue growing, learning, and making a positive impact through design. If you're interested in any of my recent or future work, please [get in touch](mailto:ch@dataliterate.de) and let's meet – physically or digitally!
