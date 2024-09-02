@@ -14,15 +14,14 @@
     <link rel="stylesheet" href="./css/poole.overrides.min.css">
     <link rel="icon" href="./assets/favicon.png" type="image/x-icon" />
     <link rel="shortcut icon" href="./assets/favicon.png" type="image/x-icon" />
-    <script type="text/javascript" src="./js/simple-sticky-bar.js"></script>
     <!--[if lt IE 9]>
       <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
     <![endif]-->
     <noscript>Please enable JavaScript to view this site.</noscript>
     <style>
         .bar {
-            position: fixed;
-            bottom: 0;
+            position: absolute;
+            top: 0;
             display: block;
             z-index: 99999;
             box-sizing: border-box;
@@ -42,14 +41,6 @@
             a[href*="http"] {
                 text-decoration: underline;
             }
-            .dismiss {
-                position: absolute;
-                top: 1em;
-                right: 0.75em;
-                font-size: 1.2em;
-                line-height: 1;
-                color: inherit;
-            }
         }
     </style>
 </head>
@@ -58,7 +49,6 @@
     <!-- Sticky Bar -->
     <div id="bar" class="bar">
         <p>Emergency on planet earth!</p>
-        <a href="#" class="dismiss">&times;</a>
     </div>
     <!-- Main Container -->
     <div class="container content">
