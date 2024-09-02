@@ -3,7 +3,7 @@ title: Hello.
 ---
 <img src="./assets/datarobo.gif" width="240" height="240" />
 
-## Design means making complexity tangible, fun and beautiful. 
+## My mission as a Designer is to make complexity tangible, fun and beautiful. 
 
 **My goal is to help other designers design better by providing design tools and training that enhance their creativity and effectiveness. By empowering people to understand and utilize technological mechanisms responsibly, I aim to support everyone in becoming more data literate.**
 
