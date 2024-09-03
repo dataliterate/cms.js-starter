@@ -1,5 +1,5 @@
 ---
-title: Get in touch
+title: Contact
 ---
 <img src="./assets/contact.svg" width="240" height="240" alt="Get in touch" />
 
