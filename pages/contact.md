@@ -7,5 +7,4 @@ If you're interested in collaboration, workshops or training around the topics o
 
 I cannot wait to hear from you!
 
-<small>My VAT ID is DE239308591.<br /> 
-Hamburg, Germany.</small>
+<small>My VAT ID is DE239308591.</small>
