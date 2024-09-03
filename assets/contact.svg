@@ -1,0 +1,123 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 240">
+  <style>
+    @keyframes fadeInOut {
+      0%, 8.33%, 100% { opacity: 0; }
+      2.08%, 6.25% { opacity: 1; }
+    }
+    .icon {
+      animation: fadeInOut 3.6s infinite;
+      opacity: 0;
+    }
+    #icon1 { animation-delay: 0s; }
+    #icon2 { animation-delay: 0.3s; }
+    #icon3 { animation-delay: 0.6s; }
+    #icon4 { animation-delay: 0.9s; }
+    #icon5 { animation-delay: 1.2s; }
+    #icon6 { animation-delay: 1.5s; }
+    #icon7 { animation-delay: 1.8s; }
+    #icon8 { animation-delay: 2.1s; }
+    #icon9 { animation-delay: 2.4s; }
+    #icon10 { animation-delay: 2.7s; }
+    #icon11 { animation-delay: 3s; }
+    #icon12 { animation-delay: 3.3s; }
+  </style>
+  
+  <!-- Previous 11 icons remain unchanged -->
+  
+<!-- Retro Computer -->
+  <g id="icon1" class="icon">
+    <rect x="50" y="70" width="140" height="100" rx="10" ry="10" fill="#FF1493" /> <!-- Changed to Deep Pink -->
+    <rect x="60" y="80" width="120" height="70" fill="#4ECDC4" />
+    <rect x="90" y="170" width="60" height="20" fill="#FF69B4" /> <!-- Changed to Hot Pink -->
+    <rect x="110" y="190" width="20" height="10" fill="#FF69B4" /> <!-- Changed to Hot Pink -->
+    <text x="120" y="125" font-family="monospace" font-size="24" fill="#FF1493" text-anchor="middle">MAIL</text>
+  </g>
+  
+  <!-- Speech Bubble "YO!" -->
+  <g id="icon2" class="icon">
+    <path d="M40 60H200V160H130L100 190V160H40V60Z" fill="#00CED1" stroke="#FF1493" stroke-width="5" /> <!-- Changed stroke to Deep Pink -->
+    <text x="120" y="120" font-family="comic sans ms" font-size="36" fill="#FF1493" text-anchor="middle">YO!</text> <!-- Changed fill to Deep Pink -->
+  </g>
+  
+  <!-- Rotary Phone -->
+  <g id="icon3" class="icon">
+    <circle cx="120" cy="120" r="80" fill="#FFA07A" />
+    <circle cx="120" cy="120" r="60" fill="#FF69B4" stroke="#FFA07A" stroke-width="5" /> <!-- Changed fill to Hot Pink -->
+    <circle cx="120" cy="70" r="10" fill="#FFA07A" />
+    <circle cx="155" cy="85" r="10" fill="#FFA07A" />
+    <circle cx="170" cy="120" r="10" fill="#FFA07A" />
+    <circle cx="155" cy="155" r="10" fill="#FFA07A" />
+    <circle cx="120" cy="170" r="10" fill="#FFA07A" />
+    <circle cx="85" cy="155" r="10" fill="#FFA07A" />
+    <circle cx="70" cy="120" r="10" fill="#FFA07A" />
+    <circle cx="85" cy="85" r="10" fill="#FFA07A" />
+  </g>
+  
+  <!-- Neon @ Sign -->
+  <g id="icon4" class="icon">
+    <circle cx="120" cy="120" r="80" fill="#000000" />
+    <path d="M160 120a40 40 0 1 1 -80 0a40 40 0 0 1 80 0Z" fill="none" stroke="#FF00FF" stroke-width="10" /> <!-- Changed to Fuchsia -->
+    <line x1="160" y1="120" x2="200" y2="120" stroke="#FF00FF" stroke-width="10" /> <!-- Changed to Fuchsia -->
+    <circle cx="120" cy="120" r="20" fill="#FF00FF" /> <!-- Changed to Fuchsia -->
+  </g>
+  
+  <!-- Speech Bubble "SUP?" -->
+  <g id="icon5" class="icon">
+    <path d="M40 60H200V160H130L100 190V160H40V60Z" fill="#98FB98" stroke="#FF1493" stroke-width="5" /> <!-- Changed stroke to Deep Pink -->
+    <text x="120" y="120" font-family="comic sans ms" font-size="36" fill="#FF1493" text-anchor="middle">SUP?</text> <!-- Changed fill to Deep Pink -->
+  </g>
+  
+  <!-- Pixel Art Envelope -->
+  <g id="icon6" class="icon">
+    <rect x="40" y="80" width="160" height="100" fill="#8B4513" />
+    <polygon points="40,80 120,130 200,80" fill="#FF69B4" /> <!-- Changed to Hot Pink -->
+    <rect x="40" y="80" width="160" height="10" fill="#A0522D" />
+  </g>
+  
+  <!-- Speech Bubble "HI!" -->
+  <g id="icon7" class="icon">
+    <path d="M40 60H200V160H130L100 190V160H40V60Z" fill="#FFD700" stroke="#FF00FF" stroke-width="5" /> <!-- Changed stroke to Fuchsia -->
+    <text x="120" y="120" font-family="comic sans ms" font-size="36" fill="#FF00FF" text-anchor="middle">HI!</text> <!-- Changed fill to Fuchsia -->
+  </g>
+  
+  <!-- 8-bit World -->
+  <g id="icon8" class="icon">
+    <rect x="40" y="40" width="160" height="160" fill="#1E90FF" />
+    <rect x="60" y="60" width="40" height="40" fill="#FF1493" /> <!-- Changed to Deep Pink -->
+    <rect x="140" y="60" width="40" height="40" fill="#FF1493" /> <!-- Changed to Deep Pink -->
+    <rect x="100" y="140" width="40" height="40" fill="#32CD32" />
+  </g>
+  
+  <!-- Speech Bubble "HOLA!" -->
+  <g id="icon9" class="icon">
+    <path d="M40 60H200V160H130L100 190V160H40V60Z" fill="#FF69B4" stroke="#1E90FF" stroke-width="5" /> <!-- Changed fill to Hot Pink -->
+    <text x="120" y="120" font-family="comic sans ms" font-size="32" fill="#1E90FF" text-anchor="middle">HOLA!</text>
+  </g>
+  
+  <!-- Brick Phone -->
+  <g id="icon10" class="icon">
+    <rect x="70" y="40" width="100" height="160" rx="10" ry="10" fill="#C0C0C0" />
+    <rect x="80" y="50" width="80" height="60" fill="#000000" />
+    <circle cx="120" cy="140" r="15" fill="#FF00FF" /> <!-- Changed to Fuchsia -->
+    <rect x="90" y="170" width="20" height="10" fill="#008000" />
+    <rect x="130" y="170" width="20" height="10" fill="#FF1493" /> <!-- Changed to Deep Pink -->
+  </g>
+  
+  <!-- Speech Bubble "RING!" -->
+  <g id="icon11" class="icon">
+    <path d="M40 60H200V160H130L100 190V160H40V60Z" fill="#FFA500" stroke="#FF00FF" stroke-width="5" /> <!-- Changed stroke to Fuchsia -->
+    <text x="120" y="120" font-family="comic sans ms" font-size="36" fill="#FF00FF" text-anchor="middle">RING!</text> <!-- Changed fill to Fuchsia -->
+  </g>
+
+  <!-- Fax Machine (Black and White) -->
+  <g id="icon12" class="icon">
+    <rect x="40" y="80" width="160" height="100" fill="white" stroke="black" stroke-width="4" />
+    <rect x="50" y="90" width="140" height="30" fill="black" />
+    <rect x="60" y="130" width="120" height="40" fill="white" stroke="black" stroke-width="2" />
+    <circle cx="190" cy="105" r="8" fill="white" />
+    <rect x="55" y="95" width="80" height="20" fill="white" />
+    <line x1="65" y1="140" x2="175" y2="140" stroke="black" stroke-width="2" />
+    <line x1="65" y1="150" x2="175" y2="150" stroke="black" stroke-width="2" />
+    <line x1="65" y1="160" x2="175" y2="160" stroke="black" stroke-width="2" />
+  </g>
+</svg>
