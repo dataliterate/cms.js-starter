@@ -1,7 +1,8 @@
 ---
 title: About
 ---
-![Image of Christophe](./assets/ch.png)
+<!--![Image of Christophe](./assets/ch.png)-->
+![Gradient Circle](./assets/circle.svg)
 
 ## Crafting Experiences, Embracing Complexity
 
