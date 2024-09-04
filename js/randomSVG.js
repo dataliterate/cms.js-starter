@@ -43,6 +43,6 @@
     }
 
     // Initial display of random SVGs
-    displayRandomSVG('keyvisual', 'animation-container');
+    displayRandomSVG('keyvisual', 'keyvisual-container');
     //displayRandomSVG('home', 'home-container');
     //displayRandomSVG('links', 'links-container');
