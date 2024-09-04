@@ -7,7 +7,7 @@ title: About
 <script>
     function displayRandomSVG(category, containerId) {
         // Define the base path for SVG files
-        const basePath = '/path/to/svg/files/';
+        const basePath = './assets/';
         
         // List of SVG files in each category (you'll need to maintain this list)
         const svgFiles = {
