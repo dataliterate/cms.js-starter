@@ -29,6 +29,8 @@
         const img = document.createElement('img');
         img.src = svgPath;
         img.alt = 'Random SVG from ' + category;
+        img.width = 240; // Set width to 240 pixels
+        img.height = 240; // Set height to 240 pixels
 
         // Get the container element and append the img
         const container = document.getElementById(containerId);
