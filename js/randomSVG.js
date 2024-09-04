@@ -4,10 +4,10 @@
 
         // List of SVG files in each category (you'll need to maintain this list)
         const svgFiles = {
-            'home': ['home1.svg', 'home2.svg', 'home3.svg'],
+            //'home': ['home1.svg', 'home2.svg', 'home3.svg'],
             'about': ['about1.svg', 'about2.svg', 'about3.svg'],
-            'links': ['links1.svg', 'links2.svg', 'links3.svg']
-                // Add more categories as needed
+            //'links': ['links1.svg', 'links2.svg', 'links3.svg']
+            // Add more categories as needed
         };
 
         // Check if the category exists
@@ -43,6 +43,6 @@
     }
 
     // Initial display of random SVGs
-    displayRandomSVG('home', 'home-container');
+    //displayRandomSVG('home', 'home-container');
     displayRandomSVG('about', 'about-container');
-    displayRandomSVG('links', 'links-container');
+    //displayRandomSVG('links', 'links-container');
