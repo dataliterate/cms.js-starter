@@ -1,7 +1,7 @@
 ---
 title: Hello.
 ---
-<img src="./assets/datarobo.gif" width="240" height="240" alt="Data Robo" />
+<!--<img src="./assets/datarobo.gif" width="240" height="240" alt="Data Robo" />-->
 
 ## My mission as a designer is to make complexity tangible, joy and beautiful. 
 

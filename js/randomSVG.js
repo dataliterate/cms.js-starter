@@ -4,8 +4,8 @@
 
         // List of SVG files in each category (you'll need to maintain this list)
         const svgFiles = {
+            'keyvisual': ['about1.svg', 'about2.svg', 'about3.svg', 'datarobo.gif', 'ch.png', 'links.svg'],
             //'home': ['home1.svg', 'home2.svg', 'home3.svg'],
-            'about': ['about1.svg', 'about2.svg', 'about3.svg'],
             //'links': ['links1.svg', 'links2.svg', 'links3.svg']
             // Add more categories as needed
         };
@@ -28,7 +28,7 @@
         // Create an img element
         const img = document.createElement('img');
         img.src = svgPath;
-        img.alt = 'Random SVG from ' + category;
+        img.alt = 'Random key visual from ' + category;
         img.width = 240; // Set width to 240 pixels
         img.height = 240; // Set height to 240 pixels
 
@@ -43,6 +43,6 @@
     }
 
     // Initial display of random SVGs
+    displayRandomSVG('keyvisual', 'animation-container');
     //displayRandomSVG('home', 'home-container');
-    displayRandomSVG('about', 'about-container');
     //displayRandomSVG('links', 'links-container');
