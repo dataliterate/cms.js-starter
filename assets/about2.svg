@@ -1,0 +1,103 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 240">
+  <defs>
+    <radialGradient id="bgGradient" cx="50%" cy="50%" r="50%" fx="50%" fy="50%">
+      <stop offset="0%" style="stop-color:#FF00FF;stop-opacity:0.7" />
+      <stop offset="100%" style="stop-color:#00FFFF;stop-opacity:0.3" />
+    </radialGradient>
+    <linearGradient id="lineGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#FFFF00;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#00FFFF;stop-opacity:1" />
+    </linearGradient>
+    <clipPath id="circleClip">
+      <circle cx="120" cy="120" r="118"/>
+    </clipPath>
+  </defs>
+  
+  <style>
+    @keyframes chaosRotate {
+      0% { transform: rotate(0deg); }
+      25% { transform: rotate(90deg); }
+      50% { transform: rotate(-45deg); }
+      75% { transform: rotate(180deg); }
+      100% { transform: rotate(360deg); }
+    }
+    @keyframes chaosPulse {
+      0%, 100% { r: 2; }
+      50% { r: 4; }
+    }
+    @keyframes chaosMove {
+      0%, 100% { offset-distance: 0%; }
+      25% { offset-distance: 50%; }
+      50% { offset-distance: 25%; }
+      75% { offset-distance: 75%; }
+    }
+    .chaos-orbit { animation: chaosRotate 30s ease-in-out infinite; }
+    .chaos-node { animation: chaosPulse 3s ease-in-out infinite; }
+    .chaos-particle { animation: chaosMove 20s ease-in-out infinite; }
+  </style>
+  
+  <circle cx="120" cy="120" r="120" fill="url(#bgGradient)"/>
+  
+  <g clip-path="url(#circleClip)">
+    <g class="complexity-web">
+      <g class="chaos-orbit" transform="translate(120,120)">
+        <circle cx="0" cy="0" r="110" fill="none" stroke="url(#lineGradient)" stroke-width="0.5" stroke-dasharray="5,5"/>
+        <circle class="chaos-node" cx="110" cy="0" r="3" fill="#FF00FF"/>
+      </g>
+      <g class="chaos-orbit" transform="translate(120,120) rotate(72)">
+        <circle cx="0" cy="0" r="90" fill="none" stroke="url(#lineGradient)" stroke-width="0.5" stroke-dasharray="3,3"/>
+        <circle class="chaos-node" cx="90" cy="0" r="3" fill="#FFFF00"/>
+      </g>
+      <g class="chaos-orbit" transform="translate(120,120) rotate(144)">
+        <circle cx="0" cy="0" r="70" fill="none" stroke="url(#lineGradient)" stroke-width="0.5" stroke-dasharray="2,2"/>
+        <circle class="chaos-node" cx="70" cy="0" r="3" fill="#00FFFF"/>
+      </g>
+      <g class="chaos-orbit" transform="translate(120,120) rotate(216)">
+        <circle cx="0" cy="0" r="50" fill="none" stroke="url(#lineGradient)" stroke-width="0.5" stroke-dasharray="1,1"/>
+        <circle class="chaos-node" cx="50" cy="0" r="3" fill="#FF00FF"/>
+      </g>
+    </g>
+    
+    <g class="chaos-particles">
+      <circle class="chaos-particle" r="2" fill="#FF00FF">
+        <animateMotion dur="15s" repeatCount="indefinite" 
+          path="M120,10 A110,110 0 0 1 230,120 A110,110 0 0 1 120,230 A110,110 0 0 1 10,120 A110,110 0 0 1 120,10 z" 
+          keyPoints="0;0.3;0.5;0.7;1" keyTimes="0;0.25;0.5;0.75;1" calcMode="linear"/>
+      </circle>
+      <circle class="chaos-particle" r="2" fill="#FFFF00">
+        <animateMotion dur="12s" repeatCount="indefinite" 
+          path="M120,30 A90,90 0 0 1 210,120 A90,90 0 0 1 120,210 A90,90 0 0 1 30,120 A90,90 0 0 1 120,30 z" 
+          keyPoints="0;0.4;0.6;0.9;1" keyTimes="0;0.25;0.5;0.75;1" calcMode="linear"/>
+      </circle>
+      <circle class="chaos-particle" r="2" fill="#00FFFF">
+        <animateMotion dur="9s" repeatCount="indefinite" 
+          path="M120,50 A70,70 0 0 1 190,120 A70,70 0 0 1 120,190 A70,70 0 0 1 50,120 A70,70 0 0 1 120,50 z" 
+          keyPoints="0;0.2;0.7;0.8;1" keyTimes="0;0.25;0.5;0.75;1" calcMode="linear"/>
+      </circle>
+    </g>
+    
+    <g class="chaos-connections">
+      <path d="M120,120 Q180,60 220,120 T120,220 T20,120 T120,20 T220,120" fill="none" stroke="#FF00FF" stroke-width="0.5" opacity="0.5">
+        <animate attributeName="d" 
+          values="M120,120 Q180,60 220,120 T120,220 T20,120 T120,20 T220,120;
+                  M120,120 Q60,180 120,220 T220,120 T120,20 T20,120 T120,220;
+                  M120,120 Q180,60 220,120 T120,220 T20,120 T120,20 T220,120" 
+          dur="20s" repeatCount="indefinite"/>
+      </path>
+      <path d="M120,20 Q220,120 120,220 T20,120 T220,120 T120,220" fill="none" stroke="#FFFF00" stroke-width="0.5" opacity="0.5">
+        <animate attributeName="d" 
+          values="M120,20 Q220,120 120,220 T20,120 T220,120 T120,220;
+                  M20,120 Q120,220 220,120 T120,20 T120,220 T20,120;
+                  M120,20 Q220,120 120,220 T20,120 T220,120 T120,220" 
+          dur="25s" repeatCount="indefinite"/>
+      </path>
+      <path d="M20,20 Q120,120 220,20 T220,220 T20,220 T20,20" fill="none" stroke="#00FFFF" stroke-width="0.5" opacity="0.5">
+        <animate attributeName="d" 
+          values="M20,20 Q120,120 220,20 T220,220 T20,220 T20,20;
+                  M220,20 Q120,120 20,220 T220,220 T220,20 T20,20;
+                  M20,20 Q120,120 220,20 T220,220 T20,220 T20,20" 
+          dur="30s" repeatCount="indefinite"/>
+      </path>
+    </g>
+  </g>
+</svg>
