@@ -3,7 +3,6 @@ title: About
 ---
 <!--![Image of Christophe](./assets/ch.png)-->
 ![Gradient Circle](./assets/about/about2.svg)
-<div id="about-container">x</div>
 
 ## Crafting Experiences, Embracing Complexity
 
