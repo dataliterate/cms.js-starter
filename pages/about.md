@@ -2,7 +2,7 @@
 title: About
 ---
 <!--![Image of Christophe](./assets/ch.png)-->
-![Gradient Circle](./assets/about/about2.svg)
+<img src="./assets/about/about2.svg" width="240" height="240" alt="About" />
 
 ## Crafting Experiences, Embracing Complexity
 
